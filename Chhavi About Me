@@ -1,0 +1,72 @@
+  <!DOCTYPE html>
+
+
+<html>
+
+
+<head>
+
+<title> Chhavi </title> 
+
+<style>
+body {
+  background-image: url('https://3.bp.blogspot.com/-_Z13kk62TF8/XHJ8LDtzypI/AAAAAAAA-7o/eW_ewkR20NEXzjEx6E1I2f-Uedvh0ShWQCLcBGAs/s1600/tumblr_pncgebRHEb1svp654o1_1280.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 160%;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1 style="color:yellow"; style="text-align:center;"> <em> All About Me - Chhavi Mohan Kumar </h1>
+
+<ul style="color:Tomato;">
+  <li>My name is Chhavi</li>
+  <li>I am 10 years old and I live in South Brunswick, New Jersey</li>
+  <li>I'm in 4th grade - Brooks Crossing School</li>
+</ul>
+
+<h2 style="color:yellow"> When I Grow Up </h2>
+
+<ul style="color:Tomato;">
+  <li> I want to become a Astronaut</li>
+ 
+</ul>
+ <img style="width:40%;height:40%;" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Bruce_McCandless_II_during_EVA_in_1984.jpg">
+
+
+
+<h2 style="color:yellow"> My Favorites  </h2>
+
+<ul style="color:Tomato;">
+  <li>Favorite sport is Swimming</li>
+  <li>Favorite Hobby - Art / Painting</li>
+  <li>Favorite chocolate - Hershey Milk Chocolate with out nuts</li>
+  <li>Favorite instrument - Violin</li>
+  <li>Favorite color Purple & Turquoise</li>
+</ul>
+
+<h2 style="color:yellow">Favorite Vacation Spots </h2>
+
+<ol style="color:Tomato;">
+  <li>Agra - Taj Mahal</li>
+  <li>Virginia</li>
+  <li>Florida</li>
+</ol>
+
+<p style="color:Tomato;"> Places I want to vistit</p>
+
+<ol style="color:Tomato;">
+  <li>Hawaii</li>
+  <li>Canada</li>
+  <li>Alaska</li>
+</ol>
+ <img style="width:40%;height:40%;" src="https://thumbs-prod.si-cdn.com/Abm-e-V_cqdIqYDo_cXApagw8zI=/800x600/filters:no_upscale():focal(1471x1061:1472x1062)/https://public-media.si-cdn.com/filer/b6/30/b630b48b-7344-4661-9264-186b70531bdc/istock-478831658.jpg">
+
+</body>
+
+</html>
+
