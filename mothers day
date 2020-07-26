@@ -11,7 +11,7 @@
 
 
 <style>
-body {
+body 
   background-image: url('doc2im3.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -55,6 +55,8 @@ a:active {
 
 <h1 style="color:Tomato;">  Mother's Day </h1>
 
+<p> This is test branch 1.  </p>
+
 <p style="color:Tomato;"> Happy Mother's Day,Mother's Day is a day we celabrate our mothers. A few gifts you can give your mom is letter, card, or even a simple craft.
  Check out the link below for some gift ideas.   </p>
 
@@ -65,7 +67,7 @@ a:active {
 
   
 
-<h2 style="color:Tomato;">Mother's Day is over</h2>
+<h2 style="color:Tomato;">Mother's Day wrapup</h2>
 
  <p style="color:Tomato;"> Mother's Day passes away faster then you can count to 10. It's that fun. Happy Mother's Day. Have fun.</p>
 
